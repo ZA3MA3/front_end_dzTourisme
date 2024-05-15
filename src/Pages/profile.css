@@ -1,0 +1,312 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+    width: 1366px !important;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-lg: 18px;
+    --font-size-xl: 20px;
+    --font-size-base: 16px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-gainsboro: #d9d9d9;
+  
+    /* Paddings */
+    --padding-2xl: 21px;
+    --padding-8xl: 27px;
+    --padding-xl: 20;}
+
+    
+.frame-child4 {
+    width: 440px;
+    height: 884px;
+    position: relative;
+    background-color: var(--color-white);
+    border-right: 1px solid var(--color-black);
+    box-sizing: border-box;
+    display: none;
+    max-width: 100%;
+  }
+  .frame-item4 {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: 50%;
+    background-color: var(--color-gainsboro);
+    z-index: 1;
+  }
+  .name4,
+  .username4{
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+  }
+  .name4 {
+    margin: 0;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    min-width: 103px;
+  }
+  .username4 {
+    font-size: var(--font-size-xl);
+    min-width: 111px;
+  }
+  .username-field4,
+  .username-field-wrapper4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .username-field-wrapper4 {
+    flex-direction: row;
+    padding: 0 1px;
+  }
+  .glagahhgmailcom4 {
+    position: relative;
+    font-size: var(--font-size-xl);
+    white-space: nowrap;
+    z-index: 1;
+  }
+  .frame-parent4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+  }
+  .frame-inner4 {
+    height: 32px;
+    width: 280px;
+    position: relative;
+    background-color: var(--color-gainsboro);
+    display: none;
+  }
+  .edit-profile4 {
+    position: relative;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+    min-width: 103px;
+    z-index: 2;
+  }
+  .rectangle-group4 {
+    cursor: pointer;
+    border: 0;
+    padding: 4px var(--padding-xl);
+    background-color: var(--color-gainsboro);
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    white-space: nowrap;
+    z-index: 1;
+  }
+  .rectangle-group4:hover {
+    background-color: #bfbfbf;
+  }
+  .rectangle-div4,
+  .rectangle-parent4 {
+    background-color: var(--color-white);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .rectangle-parent4 {
+    height: 884px;
+    width: 440px;
+    border-right: 1px solid var(--color-black);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 57px 79px 369px;
+    gap: 26px;
+    min-width: 440px;
+    border-top: black solid 1px;
+  }
+  .rectangle-div4 {
+    height: 51px;
+    width: 1000px;
+    position: relative;
+    border-bottom: 1px solid var(--color-black);
+    display: none;
+  }
+  .hotel-bookings4,
+  .restaurant-reservations4 {
+    position: relative;
+    white-space: nowrap;
+    z-index: 1;
+  }
+  .restaurant-reservation4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 5px 0 0;
+  }
+  .car-rentals4 {
+    position: relative;
+    display: inline-block;
+    min-width: 102px;
+    white-space: nowrap;
+    z-index: 1;
+  }
+  .frame-child14,
+  .rectangle-container4 {
+    background-color: var(--color-white);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .rectangle-container4 {
+    align-self: stretch;
+    border-bottom: 1px solid var(--color-black);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 14px 55px 15px;
+    gap: 53px;
+    top: 0;
+    z-index: 99;
+    position: sticky;
+    text-align: left;
+    font-size: var(--font-size-lg);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+    border-top: black solid 1px;
+  }
+  .frame-child14 {
+    width: 960px;
+    height: 798px;
+    position: relative;
+    border-radius: var(--br-10xs);
+    border: 1px solid var(--color-black);
+    display: none;
+  }
+  .frame-child104,
+  .frame-child24,
+  .frame-child34,
+  .frame-child44,
+  .frame-child54,
+  .frame-child64,
+  .frame-child74,
+  .frame-child84,
+  .frame-child94 {
+    align-self: stretch;
+    height: 57px;
+    position: relative;
+    background-color:/*var(--color-gainsboro)*/white ;
+    z-index: 1;
+  }
+  .frame-div4,
+  .frame-wrapper4 {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .frame-div4 {
+    flex: 1;
+    border-radius: 4px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: var(--padding-2xl) var(--padding-8xl);
+    gap: 24px;
+
+  }
+  .frame-wrapper4 {
+    height: 798px;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0 19px 0 var(--padding-2xl);
+  }
+  .desktop-44,
+  .frame-group4 {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .frame-group4 {
+    flex: 1;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 15px;
+    min-width: 650px;
+    max-width: 100%;
+  }
+  .desktop-44 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    overflow: hidden;
+    flex-direction: row;
+    align-items: flex-start;
+    letter-spacing: normal;
+    row-gap: 20px;
+    text-align: left;
+    font-size: 35px;
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  @media screen and (max-width: 1125px) {
+    .rectangle-parent4 {
+      flex: 1;
+    }
+    .desktop-44 {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 1050px) {
+    .name4 {
+      font-size: 28px;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .rectangle-parent4 {
+      padding-top: 37px;
+      padding-bottom: 240px;
+      box-sizing: border-box;
+      min-width: 100%;
+    }
+    .rectangle-container4 {
+      gap: 53px 26px;
+      padding-left: var(--padding-8xl);
+      padding-right: var(--padding-8xl);
+      box-sizing: border-box;
+    }
+    .frame-div4 {
+      padding-top: var(--padding-xl);
+      padding-bottom: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .frame-group4 {
+      min-width: 100%;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .name4{
+      font-size: 21px;
+    }
+    .glagahhgmailcom4,
+    .username4 {
+      font-size: var(--font-size-base);
+    }
+    .rectangle-parent4 {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }}

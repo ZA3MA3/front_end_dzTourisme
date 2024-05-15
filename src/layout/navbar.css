@@ -1,0 +1,54 @@
+body {margin: 0;line-height: normal;}
+.xdz-trav {margin: 0;position: relative;font-size: inherit;font-weight: 700;font-family: inherit;display: inline-block;min-width: 114px;}
+.xdz-trav-wrapper {display: flex;flex-direction: row;align-items: center;justify-content: center;}
+.xg {position: relative;display: inline-block;min-width: 12px;}
+.xg-wrapper {width: 29px;border-radius: 50px;background-color: white;border: 1px solid black;box-sizing: border-box;display: flex;flex-direction: column;align-items: center;justify-content: center;padding: 3px 7px;}
+.xusername {flex: 1;position: relative;display: inline-block;min-width: 77px;}
+.xframe-group,
+.xframe-parent,
+.xusername-wrapper {display: flex;flex-direction: row;align-items: center;justify-content: center;}
+.xusername-wrapper {flex: 1;color: white;}
+.xframe-group,
+.xframe-parent {box-sizing: border-box;}
+.xframe-group {width: 115px;border-radius: 14px;background-color: black;padding: 2px 3px;gap: 3px;flex-shrink: 0;text-align: center;font-size: 16px;color: #393030;}
+.xframe-parent {width: 100%;position: relative;background-color: white;padding: 1.5px 12px;gap: 1085px;line-height: normal;letter-spacing: normal;text-align: left;font-size: 25px;color: black;font-family: Inter;}
+@media screen and (max-width: 1300px) {.xframe-parent {flex-wrap: wrap;gap: 556px;}
+}
+@media screen and (max-width: 800px) {.xframe-parent {gap: 278px;}
+}
+@media screen and (max-width: 450px) {.xdz-trav {font-size: 20px;}
+.xframe-group,
+.xg-wrapper {width: calc(100% - 40px);}
+.xframe-parent {gap: 139px;}
+}
+
+
+  
+ 
+.xxsign-up {position: relative;font-size: 18px;display: inline-block;font-family: Inter;color: white;text-align: center;min-width: 67px;}
+.xxsign-up-wrapper {cursor: pointer;border: 0;padding: 4px 2.5px;background-color: black;border-radius: 19px;display: flex;flex-direction: row;align-items: flex-start;justify-content: flex-start;white-space: nowrap;}
+.xxsign-in {position: relative;font-size: 18px;display: inline-block;font-family: Inter;color: black;text-align: center;min-width: 60px;}
+.xxframe-parent,
+.xxsign-in-wrapper {display: flex;flex-direction: row;align-items: flex-start;justify-content: flex-start;}
+.xxsign-in-wrapper {cursor: pointer;border: 0;padding: 4px 6px;background-color: white;border-radius: 19px;white-space: nowrap;}
+.xxframe-parent {position: relative;width: 100%;gap: 4px;line-height: normal;letter-spacing: normal;}
+
+
+.ndropdown {
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    z-index: 1000;
+  }
+  
+  .ndropdown-item {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .nicon {
+    margin-right: 5px;
+  }

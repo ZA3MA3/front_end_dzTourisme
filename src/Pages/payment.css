@@ -1,0 +1,708 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 1366px !important;
+}.desktop-3-m1g {
+  width: 100%;
+  height: 112.1rem;
+  position: relative;
+  background-color: #ffffff;
+}
+.desktop-3-m1g .component-9-u7t {
+  width: 120rem;
+  height: 3rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 2.9rem;
+}
+.desktop-3-m1g .component-9-u7t .component-6-Evr {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.desktop-3-m1g .component-9-u7t .component-6-Evr .rectangle-25-Pok {
+  width: 120rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  background-color: #ffffff;
+}
+.desktop-3-m1g .component-9-u7t .component-6-Evr .your-details-8mL {
+  width: 10.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 54.7rem;
+  top: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-m1g .component-9-u7t .component-6-Evr .item-2-SX8 {
+  width: 1.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 52.5rem;
+  top: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-m1g .component-9-u7t .component-6-Evr .ellipse-3-win {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 108.5rem;
+  top: 0.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #000000;
+  border-radius: 1.2rem;
+}
+.desktop-3-m1g .component-9-u7t .component-6-Evr .item-3-4Hc {
+  width: 1.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 109.1rem;
+  top: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-m1g .component-9-u7t .component-6-Evr .final-step-NJJ {
+  width: 8.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 111.3rem;
+  top: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-m1g .component-9-u7t .component-6-Evr .your-selection-5iW {
+  width: 12.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 0.4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-m1g .component-9-u7t .component-6-Evr .line-1-bRx {
+  width: 35.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 16rem;
+  top: 1.5rem;
+  background-color: #000000;
+}
+.desktop-3-m1g .component-9-u7t .component-6-Evr .line-2-jHG {
+  width: 42rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 65.8rem;
+  top: 1.4998rem;
+  background-color: #000000;
+}
+.desktop-3-m1g .component-9-u7t .component-6-Evr .checkmark-Tj4 {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-3-m1g .component-9-u7t .component-6-Evr .checkmark-CwY {
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  left: 51.7rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-3-m1g .hotel-ain-bouda-MJe {
+  width: 20.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 9.1rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-m1g .auto-group-jpdu-3xA {
+  width: 17.2rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 12.9rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-3-m1g .auto-group-jpdu-3xA .vector-yL2 {
+  margin: 0rem 0.789rem 0.163rem 0rem;
+  width: 1.5115rem;
+  height: 1.4366rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .auto-group-jpdu-3xA .item-4-txn {
+  margin-right: 2.1rem;
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .auto-group-jpdu-3xA .adrar-algeria-E14 {
+  margin-bottom: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-9-xBx {
+  width: 120.0667rem;
+  height: 40.8rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 16.9rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-3-m1g .component-9-xBx .rectangle-13-fs4 {
+  margin-right: 0.8rem;
+  width: 59.2rem;
+  height: 40.8rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-9-xBx .auto-group-cvqv-1R8 {
+  width: 60.0667rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-9-xBx .auto-group-cvqv-1R8 .auto-group-ffi6-kNi {
+  margin: 0rem 0.067rem 0.8rem 0rem;
+  width: calc(100% - 0.0667rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-9-xBx .auto-group-cvqv-1R8 .auto-group-ffi6-kNi .rectangle-14-UpW {
+  margin-right: 0.8rem;
+  width: 29.6rem;
+  height: 21rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-9-xBx .auto-group-cvqv-1R8 .auto-group-ffi6-kNi .rectangle-18-pdU {
+  width: 29.6rem;
+  height: 21rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-9-xBx .auto-group-cvqv-1R8 .auto-group-jbmx-ABY {
+  width: 100%;
+  display: flex;
+  column-gap: 0.8333rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-9-xBx .auto-group-cvqv-1R8 .auto-group-jbmx-ABY .rectangle-15-6L6 {
+  width: 19.4667rem;
+  height: 19rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-9-xBx .auto-group-cvqv-1R8 .auto-group-jbmx-ABY .rectangle-17-EBQ {
+  width: 19.4667rem;
+  height: 19rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-9-xBx .auto-group-cvqv-1R8 .auto-group-jbmx-ABY .rectangle-16-NYW {
+  width: 19.4667rem;
+  height: 19rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-11-XAW {
+  box-sizing: border-box;
+  padding: 12.763rem 4.5rem 17.71rem 4.3rem;
+  width: 35.8rem;
+  height: 43.8287rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 65.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+}
+.desktop-3-m1g .component-11-XAW .auto-group-9nle-DZ8 {
+  margin-bottom: 2.7436rem;
+  width: 100%;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-11-XAW .auto-group-9nle-DZ8 .single-room-for-Z7C {
+  margin: 0rem 2.2rem 0.102rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-11-XAW .auto-group-9nle-DZ8 .single-room-for-Z7C .single-room-for-Z7C-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-m1g .component-11-XAW .auto-group-9nle-DZ8 .single-room-for-Z7C .single-room-for-Z7C-sub-1 {
+}
+.desktop-3-m1g .component-11-XAW .auto-group-9nle-DZ8 .single-room-for-Z7C .single-room-for-Z7C-sub-2 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-m1g .component-11-XAW .auto-group-9nle-DZ8 .single-room-for-Z7C .single-room-for-Z7C-sub-3 {
+}
+.desktop-3-m1g .component-11-XAW .auto-group-9nle-DZ8 .frame-36-17c {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-11-XAW .auto-group-9nle-DZ8 .frame-36-17c .item-4522-Zup {
+  margin-right: 0.8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-11-XAW .auto-group-9nle-DZ8 .frame-36-17c .item--uin {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-11-XAW .adults-and-1-children-Sii {
+  margin: 0rem 0rem 2.945rem 0.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-11-XAW .calendar-Mqg {
+  margin-right: 20rem;
+  width: 3rem;
+  height: 2.9681rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN {
+  width: 79.4rem;
+  height: 43.8287rem;
+  position: absolute;
+  left: 52.6rem;
+  top: 65.4rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.desktop-3-m1g .component-10-frN .auto-group-tgkn-CbQ {
+  width: 69.7rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 21.9755rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-3-m1g .component-10-frN .auto-group-tgkn-CbQ .auto-group-dye6-7yG {
+  margin: 2.1rem 6.9rem 0rem 0rem;
+  width: 12rem;
+  height: 5.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-tgkn-CbQ .auto-group-dye6-7yG .rectangle-38-F3t {
+  width: 12rem;
+  height: 3.5617rem;
+  position: absolute;
+  left: 0;
+  top: 2.1351rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.3rem;
+}
+.desktop-3-m1g .component-10-frN .auto-group-tgkn-CbQ .auto-group-dye6-7yG .expiry-month-9f4 {
+  width: 11.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-m1g .component-10-frN .auto-group-tgkn-CbQ .auto-group-dye6-7yG .mm-GUn {
+  width: 4.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 2.5rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-m1g .component-10-frN .auto-group-tgkn-CbQ .american-express-aVU {
+  margin: 0rem 2.3rem 1.8rem 0rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-tgkn-CbQ .visa-ha6 {
+  margin: 0rem 2.3rem 1.8rem 0rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-tgkn-CbQ .mastercard-2cN {
+  margin: 0rem 7.9rem 1.8rem 0rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-tgkn-CbQ .item-4522-Z6W {
+  margin: 0.4rem 1.3rem 0rem 0rem;
+  font-size: 4.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-tgkn-CbQ .item--fvE {
+  margin-top: 0.4rem;
+  font-size: 4.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-on9c-CfG {
+  width: 69.5rem;
+  height: 3.5883rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 18.3755rem;
+  display: flex;
+  align-items: flex-start;
+}
+.desktop-3-m1g .component-10-frN .auto-group-on9c-CfG .rectangle-37-wMx {
+  margin: 0.027rem 3.5rem 0rem 0rem;
+  width: 45.9rem;
+  height: 3.5617rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-on9c-CfG .transaction-cost-3A6 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .card-holder-name-n7g {
+  width: 15.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 16.1755rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-m1g .component-10-frN .auto-group-rkkq-TzW {
+  width: 69.6rem;
+  height: 3.5617rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 10.4872rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-3-m1g .component-10-frN .auto-group-rkkq-TzW .auto-group-1cmc-PNN {
+  margin-right: 2rem;
+  width: 12rem;
+  height: 100%;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-rkkq-TzW .auto-group-pmvq-4Dc {
+  margin-right: 2rem;
+  width: 12rem;
+  height: 100%;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-rkkq-TzW .auto-group-5xua-jae {
+  margin-right: 2rem;
+  width: 12rem;
+  height: 100%;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-rkkq-TzW .auto-group-dvaw-Rbt {
+  margin-right: 3.6rem;
+  width: 12rem;
+  height: 100%;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-rkkq-TzW .rectangle-33-qQi {
+  width: 12rem;
+  height: 3.5617rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-pfhq-Kqg {
+  width: 71.2rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 32.0755rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-3-m1g .component-10-frN .auto-group-pfhq-Kqg .auto-group-bpyi-Dw4 {
+  margin-right: 30rem;
+  width: 12rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-pfhq-Kqg .auto-group-bpyi-Dw4 .expiry-year-9Jv {
+  width: 9.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-m1g .component-10-frN .auto-group-pfhq-Kqg .auto-group-bpyi-Dw4 .rectangle-39-S38 {
+  width: 12rem;
+  height: 3.5617rem;
+  position: absolute;
+  left: 0;
+  top: 2.05rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.3rem;
+}
+.desktop-3-m1g .component-10-frN .auto-group-pfhq-Kqg .auto-group-bpyi-Dw4 .yyyy-hze {
+  width: 7.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 2.5rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #717171;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-m1g .component-10-frN .auto-group-pfhq-Kqg .frame-36-BQ2 {
+  margin: 1.1rem 0rem 0.445rem 0rem;
+  width: 29.2rem;
+  height: calc(100% - 1.5447rem);
+  overflow: hidden;
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-pruv-ZfU {
+  width: 61.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 8.1755rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-3-m1g .component-10-frN .auto-group-pruv-ZfU .card-number-4cE {
+  margin-right: 46.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-m1g .component-10-frN .auto-group-pruv-ZfU .cvc-no8 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
